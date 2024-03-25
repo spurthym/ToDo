@@ -77,7 +77,7 @@ const App = () => {
             
          
         </ul>
-        <p className="text-center">{`You Have ${todo.length} thins to complete`} </p>
+        <p className="text-center">{`You Have ${todo.length} things to complete testing`} </p>
 
         
 
